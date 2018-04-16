@@ -1,0 +1,12 @@
+{
+  "name": "believe-in-aesthetics",
+  "version": "1.0.0",
+  "description": "Believe in aesthetics personal training page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kade Nichols",
+  "license": "UNLICENSED",
+  "private": true
+}
